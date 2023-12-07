@@ -5,7 +5,8 @@
 - Pytorch 1.7.1
 - MATLAB R2018a
 - 
-#  If you use this code, please cite “Shi Baoshun, Xu Wenyuan, Yang Xiuwei. CTDNet: Cartoon-Texture Decomposition-based Gray Image Super-Resolution Network with Multiple Degradations. Journal of the Optical Society of America B, 2023, 40(12): 3284-3290.”
+# cite
+- If you use this code, please cite “Shi Baoshun, Xu Wenyuan, Yang Xiuwei. CTDNet: Cartoon-Texture Decomposition-based Gray Image Super-Resolution Network with Multiple Degradations. Journal of the Optical Society of America B, 2023, 40(12): 3284-3290.”
 # [Testing code](https://github.com/shibaoshun/CTDNet) 
 
 `We provide the test codes on Set12 and real Terahertz images. We also upload the BAR method to post-process the SR Terahertz images.`
